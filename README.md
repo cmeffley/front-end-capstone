@@ -3,7 +3,7 @@
 ### Motivation
 I wanted to create an application that will help someone train for a race or create a workout plan with an end date/goal. I thoroughly enjoy racing, whether it's cycling, triathlon or running, and although there are a ton of apps already created for this, I would love to try and create my own version. Organizing and planning workouts are key to succeeding in your goals and my hope is that this application will help users succeed.
 
-### [Deployed Site](https://cm-trainer.netlify.app/)
+<!-- ### [Deployed Site](https://cm-trainer.netlify.app/) -->
 
 ## Overview
 This application is where a coach and athlete work together to create a race schedule and then workouts to prepare for those races.
